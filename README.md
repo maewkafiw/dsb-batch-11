@@ -1,2 +1,5 @@
-# dsb-batch-11
+# Data Science Bootcamp 11
 my data science and analytics projects
+
+## My personal project
+
