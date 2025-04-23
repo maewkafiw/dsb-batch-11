@@ -1,5 +1,6 @@
 # Data Science Bootcamp 11
-my data science and analytics projects
+This repository collects the work, project and learning from Data Science Bootcamp 11 at Datarockie from January 2025 to May 2025
 
-## My personal project
+## What I Learn 
 
+**
